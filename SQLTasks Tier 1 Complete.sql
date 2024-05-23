@@ -43,7 +43,8 @@ WHERE membercost > 0;
 SELECT name 
 FROM `Facilities` 
 WHERE membercost = 0;
-4 facilites, badminton court, table tennis , snooker court, pool table.
+
+/There are 4 facilites, badminton court, table tennis , snooker court, pool table.
 
 /* Q3: Write an SQL query to show a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost.
